@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zt.config.XmlConfig",
+      "name": "jwt",
+      "type": "com.zt.config.XmlConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zt.config.XmlConfig",
+      "name": "jwt.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zt.config.XmlConfig",
+      "name": "jwt.username",
+      "type": "java.lang.String"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+jwt:
+  username: wzt
+  password: 123456
+#logging:
+#  file: wzt.log
